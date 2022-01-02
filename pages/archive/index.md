@@ -1,20 +1,11 @@
-# I woke up, but my feet had left the ground. Was I still dreaming? Is this my ikigai?
+# Archive
 
-<h2 class="highlight">My archive of thoughts</h2>
+<h2 class="highlight">I've been blogging and writing since 1997, unfortunately most of this is lost in space. Here are what I've written on my new site:</h2>
 
-<!-- This structure is easier to just do with HTML. URLs won't be parsed as this is HTML, so we have to manually link to .html and not .md -->
-<a class="archive" href="/welcome-to-basilar">
+<a class="archive" href="/2022-new-years-resolutions">
     <div class="abstract">
-        <h3>Welcome to Basilar</h3>
-        <p class="p1">Basilar is a very easy way to get started with Markdown to HTML generation ...</p>
-        <p class="date">February 2021 - 1 min read</p>
-    </div>
-</a>
-
-<a class="archive" href="/markdown-sample">
-    <div class="abstract">
-        <h3>Markdown Sample (demo)</h3>
-        <p class="p1">This sample is taken from the markdown-it demo ...</p>
-        <p class="date">February 2020 - 1 min read</p>
+        <h3>2022 - New Year's Resolutions</h3>
+        <p class="p1">I’m taking a leave of absence for one year...</p>
+        <p class="date">December 2021 - 6 min read</p>
     </div>
 </a>
