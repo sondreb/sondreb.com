@@ -1,6 +1,6 @@
 # 2022 - New Year's Resolutions
 
-<img src="headline.jpg" />
+<img class="image" src="headline.jpg" />
 
 Next year (2022) will be a different year for me. I'm taking a leave of absence from my employer (Agder Energi) for one year.
 

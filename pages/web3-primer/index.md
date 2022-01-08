@@ -1,6 +1,6 @@
 # Web3 primer
 
-<img src="headline.jpg" />
+<img class="image" src="headline.jpg" />
 
 "Why it matters and why you should care."
 

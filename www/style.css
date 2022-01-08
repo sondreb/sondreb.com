@@ -273,6 +273,15 @@ hr {
 /* .thumbnail { grid-area: thumbnail; }
   .abstract { grid-area: abstract; } */
 
+.image {
+  width: 100%;
+  box-shadow: 0 8px 16px 0 var(--shadow);
+  /* border: 1px solid var(--foreground-light); */
+  background-color: var(--box-background);
+  transition: box-shadow 350ms;
+  border-radius: 5px;
+}
+
 .thumbnail img {
   width: 100%;
   box-shadow: 0 8px 16px 0 var(--shadow);
@@ -287,7 +296,8 @@ hr {
   transition: box-shadow 750ms;
 }
 
-.date, .attribution {
+.date,
+.attribution {
   color: var(--foreground-alternative);
   margin: 0;
 }
