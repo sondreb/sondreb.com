@@ -2,7 +2,6 @@
 
 <h2 class="highlight">“I'm a speaker, software architect, programmer, writer, voluntaryist, and transhumanist. I also make videos, take photos, build private cities and work with blockchain technology. I do a little bit of everything.”</h2>
 
-
 <a href="images/Sondre_Bjellas_on_stage.jpg"><img src="images/Sondre_Bjellas_on_stage.jpg" class="thumbnail-right" /></a><h3>Knowledge is worthless when it's locked down</h3>
 
 <p class="margin">Public speaking is a great way to share knowledge and I love it!</p>
@@ -64,6 +63,16 @@ Stian, <a href="https://github.com/emilm">Emil</a>, John, Dag, <a href="https://
 <h2>Stories</h2>
 
 <!-- This structure is easier to just do with HTML. URLs won't be parsed as this is HTML, so we have to manually link to .html and not .md -->
+
+<a class="post" href="web3-primer">
+    <div class="thumbnail"><img src="web3-primer/headline.jpg"></div>
+    <div class="abstract">
+        <h3>Web3 primer</h3>
+        <p class="p1">"Why it matters and why you should care."...</p>
+        <p class="date">January 2021 - 8 min read</p>
+    </div>
+</a>
+
 <a class="post" href="2022-new-years-resolutions">
     <div class="thumbnail"><img src="2022-new-years-resolutions/headline.jpg"></div>
     <div class="abstract">
