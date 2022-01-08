@@ -82,5 +82,6 @@ I know that Web3 is a very hyped and debated topic, and definitions are very dif
 
 Let's stop fighting and arguing about semantics and details, and let us get our hands dirty and realize a better future for everyone.
 
-<p class="date">2021-12-31</p>
-<p class="attribution">Photo by Shubham Dhage on Unsplash</p>
+<p class="date">Written: 2022-01-08</p>
+<p class="attribution">Author: Sondre Bjellås</p>
+<p class="attribution">Photo: Shubham Dhage</p>
