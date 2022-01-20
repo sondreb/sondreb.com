@@ -2,6 +2,14 @@
 
 <h2 class="highlight">I've been blogging and writing since 1997, unfortunately most of this is lost in space. Here are what I've written on my new site:</h2>
 
+<a class="post" href="/on-making-life-easier">
+    <div class="abstract">
+        <h3>On Making Life Easier</h3>
+        <p class="p1">"We work to avoid suffering"...</p>
+        <p class="date">January 2021 - 9 min read</p>
+    </div>
+</a>
+
 <a class="post" href="/the-aristocracy-of-action">
     <div class="abstract">
         <h3>The Aristocracy of Action</h3>

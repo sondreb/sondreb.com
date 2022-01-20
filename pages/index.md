@@ -64,6 +64,15 @@ Stian, <a href="https://github.com/emilm">Emil</a>, John, Dag, <a href="https://
 
 <!-- This structure is easier to just do with HTML. URLs won't be parsed as this is HTML, so we have to manually link to .html and not .md -->
 
+<a class="post" href="on-making-life-easier">
+    <div class="thumbnail"><img src="on-making-life-easier/headline.jpg"></div>
+    <div class="abstract">
+        <h3>On Making Life Easier</h3>
+        <p class="p1">"We work to avoid suffering"...</p>
+        <p class="date">January 2021 - 9 min read</p>
+    </div>
+</a>
+
 <a class="post" href="the-aristocracy-of-action">
     <div class="thumbnail"><img src="the-aristocracy-of-action/headline.jpg"></div>
     <div class="abstract">

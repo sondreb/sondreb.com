@@ -101,7 +101,7 @@ Maybe however you think that all this is too much for you. That all the problems
 
 But what if you agree? Then prove yourself to be of the Aristocracy of Action.
 
-<p class="date">Published: 2022-01-08</p>
+<p class="date">Published: 2022-01-20</p>
 <p class="date">Written: 2010</p>
 <p class="attribution">Author: pseudonymous-VYE4hb3v84v2</p>
 <p class="attribution">Original: https://anarplex.net/hosted/files/aoa.txt</p>
