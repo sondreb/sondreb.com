@@ -1,5 +1,7 @@
 # On making life easier
 
+<img class="image" src="headline.jpg" />
+
 It is an biological inherent trait of living creatures to avoid pain and suffering. Pain and suffering is natural mechanisms to ensure survival. Ensuring we don’t eat what is bad for us, or don’t enact in activity that can hurt us and potentially be the death of us.
 
 It is therefor natural behavior to seek less stress, less pain and less suffering on a personal level. You don’t care much about anyone else, your primary focus is on your self. You extend you consideration to those closest to you, as life experience and evolution have thought us that we will suffer, if everyone in the immediate surrounding (think: family/tribe) is is suffering. We reap happiness, from the happiness of others.
