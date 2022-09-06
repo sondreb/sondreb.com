@@ -1,6 +1,6 @@
 # Archive
 
-<h2 class="highlight">I've been blogging and writing since 1997, unfortunately most of this is lost in space. Here are what I've written on my new site:</h2>
+<h2 class="highlight">I've been blogging and writing since 1997, unfortunately most of this is lost in time. Here are what I've written on my new site:</h2>
 
 <a class="post" href="/on-making-life-easier">
     <div class="abstract">

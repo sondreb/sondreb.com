@@ -1,6 +1,10 @@
-# “Hello, I'm Sondre.”
+# Hello, I'm Sondre.
 
-<h2 class="highlight">“I'm a speaker, software architect, programmer, writer, voluntaryist, and transhumanist. I also make videos, take photos, build private cities and work with blockchain technology. I do a little bit of everything.”</h2>
+<h2 class="highlight">
+I'm a programmer, developer, software architect, writer, voluntaryist, and transhumanist. 
+I work with decentralized systems and my goal is to decentralize everything.</h2>
+
+<!-- <div class="scroll-label">Scroll for more</div> -->
 
 <a href="images/Sondre_Bjellas_on_stage.jpg"><img src="images/Sondre_Bjellas_on_stage.jpg" class="thumbnail-right" /></a><h3>Knowledge is worthless when it's locked down</h3>
 
@@ -56,6 +60,20 @@ For individuals and organizations that give me support, I give you gratitude and
 
 <p class="margin">
 Stian, <a href="https://github.com/emilm">Emil</a>, John, Dag, <a href="https://github.com/dlandi">Dennis</a>, and anonymous.
+</p>
+
+<br><br>
+
+<h2>Work Experience</h2>
+
+<p class="margin">
+Agder Energi, Effera, Deepmind, Steria, Capgemini, Kongsberg, Digimaker, Brain, Nesthood, Interweb.
+</p>
+
+<h2>Project Experience</h2>
+
+<p class="margin">
+Vibb, DNB, Jernbaneverket, Microsoft, Santander Consumer Bank, Statens lånekasse for utdanning, Swire Oilfield Services, Identect Solutions, Grieg Group, Mercedes Benz and more.
 </p>
 
 <br><br>
