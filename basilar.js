@@ -189,12 +189,14 @@ function run(wipe) {
     fs.unlinkSync(path.join(configuration.destination, 'style.css'));
     fs.unlinkSync(path.join(configuration.destination, 'web.js'));
     fs.unlinkSync(path.join(configuration.destination, 'favicon.png'));
+    fs.unlinkSync(path.join(configuration.destination, '.well-known/nostr.json'));
     fs.unlinkSync(path.join(configuration.destination, 'CNAME'));
   }
 
   // Copy the assets. // TODO: Make this a configuration setting ("basilar.json").
   fs.copyFileSync('www/style.css', 'dist/style.css');
   fs.copyFileSync('www/web.js', 'dist/web.js');
+  fs.copyFileSync('www/.well-known/nostr.json', 'dist/.well-known/nostr.json');
   fs.copyFileSync('www/favicon.png', 'dist/favicon.png');
   fs.copyFileSync('CNAME', 'dist/CNAME');
 
