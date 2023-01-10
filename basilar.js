@@ -191,6 +191,7 @@ function run(wipe) {
     fs.unlinkSync(path.join(configuration.destination, 'web.js'));
     fs.unlinkSync(path.join(configuration.destination, 'favicon.png'));
     fs.unlinkSync(path.join(configuration.destination, '.well-known/nostr.json'));
+    fs.unlinkSync(path.join(configuration.destination, '.well-known/lnurlp/tip'));
     fs.unlinkSync(path.join(configuration.destination, 'CNAME'));
   }
 
