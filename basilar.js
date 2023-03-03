@@ -192,6 +192,9 @@ function run(wipe) {
     fs.unlinkSync(path.join(configuration.destination, 'favicon.png'));
     fs.unlinkSync(path.join(configuration.destination, '.well-known/nostr.json'));
     fs.unlinkSync(path.join(configuration.destination, '.well-known/lnurlp/tip'));
+    fs.unlinkSync(path.join(configuration.destination, 'assets/badges/friend-of-sondre.png'));
+    fs.unlinkSync(path.join(configuration.destination, 'assets/badges/friend-of-sondre-512.png'));
+    fs.unlinkSync(path.join(configuration.destination, 'assets/badges/friend-of-sondre-256.png'));
     fs.unlinkSync(path.join(configuration.destination, 'CNAME'));
   }
 
