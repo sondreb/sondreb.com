@@ -199,6 +199,9 @@ function run(wipe) {
   fs.copyFileSync('www/style.css', 'dist/style.css');
   fs.copyFileSync('www/web.js', 'dist/web.js');
   fs.copyFileSync('www/.well-known/nostr.json', 'dist/.well-known/nostr.json');
+  fs.copyFileSync('www/assets/badges/friend-of-sondre.png', 'dist/assets/badges/friend-of-sondre.png');
+  fs.copyFileSync('www/assets/badges/friend-of-sondre-512.png', 'dist/assets/badges/friend-of-sondre-512.png');
+  fs.copyFileSync('www/assets/badges/friend-of-sondre-256.png', 'dist/assets/badges/friend-of-sondre-256.png');
   fs.copyFileSync('www/favicon.png', 'dist/favicon.png');
   fs.copyFileSync('CNAME', 'dist/CNAME');
 
