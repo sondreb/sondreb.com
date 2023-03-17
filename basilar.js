@@ -188,6 +188,7 @@ function run(wipe) {
     fs.mkdirSync(path.join(configuration.destination, '.well-known'));
     fs.mkdirSync(path.join(configuration.destination, 'assets'));
     fs.mkdirSync(path.join(configuration.destination, 'assets', 'badges'));
+    fs.mkdirSync(path.join(configuration.destination, 'assets', 'slides'));
   } else {
     fs.unlinkSync(path.join(configuration.destination, 'style.css'));
     fs.unlinkSync(path.join(configuration.destination, 'web.js'));
@@ -197,6 +198,7 @@ function run(wipe) {
     fs.unlinkSync(path.join(configuration.destination, 'assets/badges/friend-of-sondre.png'));
     fs.unlinkSync(path.join(configuration.destination, 'assets/badges/friend-of-sondre-512.png'));
     fs.unlinkSync(path.join(configuration.destination, 'assets/badges/friend-of-sondre-256.png'));
+    fs.unlinkSync(path.join(configuration.destination, 'assets/slides/2023-03-16-web5.pdf'));
     fs.unlinkSync(path.join(configuration.destination, 'CNAME'));
   }
 
