@@ -508,7 +508,7 @@ label {
 }
 
 .box > div {
-  margin: 10px; /* Adjust as needed */
+  margin: 10px;
 }
 
 .box > div:first-child {
@@ -516,6 +516,24 @@ label {
 }
 
 .box > div:last-child {
+  flex: 1;
+}
+
+.footer-box {
+  display: flex;
+  align-items: center;
+}
+
+.footer-box > div {
+  margin: 0;
+}
+
+.footer-box > div:first-child {
+  flex: 0 0 26px;
+  margin-right: 1em;
+}
+
+.footer-box > div:last-child {
   flex: 1;
 }
 
