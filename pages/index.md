@@ -54,21 +54,21 @@ My goal is to be able to work full time on open source software, and I'm looking
 </p>
 
 <p class="margin">
-I have many years experience from Web3 and Web5 development, and I'm looking for opportunities to work with decentralized systems, blockchain, crypto currencies and related technologies.
+Have many years' experience from Web3 and Web5 development, and I'm looking for opportunities to work with decentralized systems, blockchain, crypto currencies and related technologies.
 </p>
 
 <h3>What I can provide</h3>
 
 <p class="margin">
-I'm a hard working and dedicated individual, with a passion for technology and software development. I have a broad range of experience, and I'm a quick learner. I'm a team player, and I enjoy working with others.
+I'm a hardworking and dedicated individual, with a passion for technology and software development. I have a broad range of experience, and I'm a quick learner. I'm a team player, and I enjoy working with others.
 </p>
 
 <p class="margin">
-I have a lot of experience with programming, architecture and working with teams. I have a passion for User Experience, ensuring that the software I develop is easy to use and understand. Making it enjoyable to use.
+Have a lot of experience with programming, architecture and working with teams. I have a passion for User Experience, ensuring that the software I develop is easy to use and understand. Making it enjoyable to use.
 </p>
 
 <p class="margin">
-I have experience working remotely and I'm comfortable with working from home or while travelling.
+Have experience working remotely and I'm comfortable with working from home or while travelling.
 </p>
 
 <p class="margin">
@@ -85,12 +85,12 @@ My colleagues and friends describe me as someone who brings joy and happiness to
 <h3>What I can do</h3>
 
 <p class="margin">
-My extensive work experience have given me a broad range of skills, and I'm comfortable with working with most technologies and programming languages. I'm a quick learner, and I'm always eager to learn new things.
+My extensive work experience has given me a broad range of skills, and I'm comfortable with working with most technologies and programming languages. I'm a quick learner, and I'm always eager to learn new things.
 </p>
 
 <p class="margin">
 My years of experience contains technology, languages and software that doesn't even exists anymore. What matters most is the ability to adapt and 
-learn new skills. Here are my current list of prefered technologies (languages, software, technology, patterns) that I enjoy working with recently:
+learn new skills. Here is my current list of preferred technologies (languages, software, technology, patterns) that I enjoy working with recently:
 </p>
 
 <p class="margin tech">
