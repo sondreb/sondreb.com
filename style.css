@@ -1,5 +1,6 @@
 * {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
 
 body {
@@ -15,6 +16,7 @@ body {
   --footer-background: #1f1f1f;
   --footer-foreground: #969696;
 
+  --focus: #f3b623;
   --accent: #f3b623;
   --positive: #63c700;
   --negative: #f80606;
@@ -39,6 +41,7 @@ body[data-theme="dark"] {
   --footer-background: #d1d1d1;
   --footer-foreground: #2e2e2e;
 
+  --focus: #f3b623;
   --accent: #f3b623;
   --positive: #7cfc00;
   --negative: #f80606;
@@ -243,6 +246,7 @@ hr {
   transition: box-shadow 350ms;
   border-radius: 5px;
   margin-left: 1em;
+  margin-bottom: 1em;
 }
 
 .archive {
@@ -494,5 +498,58 @@ label {
   .seperator {
     margin-left: 0.2em;
     margin-right: 0.2em;
+  }
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  margin-left: 2em;
+}
+
+.box > div {
+  margin: 10px; /* Adjust as needed */
+}
+
+.box > div:first-child {
+  flex: 0 0 100px;
+}
+
+.box > div:last-child {
+  flex: 1;
+}
+
+.tech {
+  padding-left: 2em;
+  font-size: 1.2em;
+  color: var(--focus);
+  font-weight: 700;
+}
+
+.footer-link {
+  text-align: center;
+  padding: 2em;
+}
+
+@page {
+  size: A4;
+  margin: 0;
+}
+
+.page-break {
+  page-break-before: always;
+}
+
+@media print {
+  .no-print {
+    display: none;
+  }
+
+  h3 {
+    margin-top: 3em;
+  }
+
+  footer {
+    margin-top: 2em;
   }
 }
