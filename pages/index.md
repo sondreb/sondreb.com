@@ -1,43 +1,136 @@
 # Hello, I'm Sondre.
 
 <h2 class="highlight">
-I'm a programmer, developer, software architect, writer, voluntaryist, and transhumanist. 
+I'm a programmer, developer, architect, writer, speaker and voluntaryist. 
 I work with decentralized systems and my goal is to decentralize everything.</h2>
 
 <!-- <div class="scroll-label">Scroll for more</div> -->
 
+<div class="page-break">
 <a href="images/Sondre_Bjellas_on_stage.jpg"><img src="images/Sondre_Bjellas_on_stage.jpg" class="thumbnail-right" /></a><h3>Knowledge is worthless when it's locked down</h3>
 
-<p class="margin">Public speaking is a great way to share knowledge and I love it!</p>
+<p class="margin">
+The foundation of human society is knowledge sharing. I do my best to share my knowledge with the world, through public speaking, writing and open source.</p>
 
-<p class="margin">I have had the opportunity to speak at many different conferences and on different topics.</p>
+<p class="margin">
+<div class="box">
+<a href="https://github.com/sondreb/"><i class="fa-5x fab fa-github"></i></a>
+<div>Check out my <a href="https://github.com/sondreb/">GitHub account</a> for my open source projects.</div>
+</div>
+</p>
 
-<p class="margin">If you'd like me to speak at any event or company, please contact me by e-mail at <a href="mailto:post@sondreb.com">post@sondreb.com</a></p>
+<h3>What I'm proud of</h3>
 
-<h3>I love to code and I love to share</h3>
+<p class="margin">
+I developed a Web5 Wallet with support for multiple crypto currencies (including Bitcoin), tokens, identities (DID), NFTs and more.<br>
+<a href="https://www.blockcore.net/wallet">blockcore.net/wallet</a>
+</p>
 
-<p class="margin">Every line of code I write in my spare time, is shared as open source. I've been building software for a very long time.</p>
+<p class="margin">
+I developed a user friendly and feature rich Nostr client. <a href="https://nostr.com/">Nostr</a> is a simple, open protocol that enables a truly censorship-resistant and global social network.<br>
+<a href="https://notes.blockcore.net/">notes.blockcore.net</a>
+</p>
 
-<p class="margin">I currently work fulltime on free open source.</p>
+<p class="margin">
+I co-founded an open source group for developing decentralized software, called Blockcore. It has an active community of core developers delivering new 
+and exciting software for the decentralized web, including atomics swaps and a trustless funding platform on Bitcoin.<br>
+<a href="https://www.blockcore.net/">blockcore.net</a>
+</p>
 
-<p class="margin">Please show your love and support by becoming an sponsor on GitHub: <a href="https://github.com/sponsors/sondreb">https://github.com/sponsors/sondreb</a></p>
+<p class="margin">
+I develop the Free City Platform, which is a collection of free and open source software that can be used to run a free city.<br>
+<a href="https://freeplatform.city/">freeplatform.city</a><br>
+<a href="https://freeplatform.city/mission.html">Mission Statement</a>
+</p>
 
-<a href="images/anarchism.jpg"><img src="images/anarchism.jpg" class="thumbnail-right" /></a><h3>Voluntary should always be the solution</h3>
+</div>
+
+<div class="page-break">
+
+<h3>What I'm looking for</h3>
+
+<p class="margin">
+My goal is to be able to work full time on open source software, and I'm looking for job opportunities, <a href="https://github.com/sponsors/sondreb">sponsors</a> and supporters that can help me achieve this goal.
+</p>
+
+<p class="margin">
+I have many years experience from Web3 and Web5 development, and I'm looking for opportunities to work with decentralized systems, blockchain, crypto currencies and related technologies.
+</p>
+
+<h3>What I can provide</h3>
+
+<p class="margin">
+I'm a hard working and dedicated individual, with a passion for technology and software development. I have a broad range of experience, and I'm a quick learner. I'm a team player, and I enjoy working with others.
+</p>
+
+<p class="margin">
+I have a lot of experience with programming, architecture and working with teams. I have a passion for User Experience, ensuring that the software I develop is easy to use and understand. Making it enjoyable to use.
+</p>
+
+<p class="margin">
+I have experience working remotely and I'm comfortable with working from home or while travelling.
+</p>
+
+<p class="margin">
+I'm a good communicator, and I enjoy sharing my knowledge with others. I have experience with public speaking, and I'm comfortable with speaking in front of large audiences.
+</p>
+
+<p class="margin">
+My colleagues and friends describe me as someone who brings joy and happiness to the workspace.
+</p>
+
+</div>
+
+<div class="page-break">
+<h3>What I can do</h3>
+
+<p class="margin">
+My extensive work experience have given me a broad range of skills, and I'm comfortable with working with most technologies and programming languages. I'm a quick learner, and I'm always eager to learn new things.
+</p>
+
+<p class="margin">
+My years of experience contains technology, languages and software that doesn't even exists anymore. What matters most is the ability to adapt and 
+learn new skills. Here are my current list of prefered technologies (languages, software, technology, patterns) that I enjoy working with recently:
+</p>
+
+<p class="margin tech">
+JavaScript, TypeScript, Progressive Web Apps, DevOps, DevEx, Bitcoin, Ethereum, Web3, Web5, Nostr, Node.js, Docker, C#, .NET, ASP.NET, Kubernetes, MongoDB, RocksDB, Git, GitHub, Visual Studio Code, Azure (Cloud), Tauri, Electron, Cordova.
+</p>
+
+<br><br>
+
+<h2>Work Experience</h2>
+
+<p class="margin">
+Å Energi (Agder Energi), Effera, Deepmind, Steria, Capgemini, Kongsberg, Digimaker, Brain, Nesthood, Interweb.
+</p>
+
+<h2>Project Experience</h2>
+
+<p class="margin">
+Opdex (decentralized token exchange), Stratis (blockchain platform), Blockcore (decentralized software), Vibb (utilities), DNB (banking), Jernbaneverket (railroad service), Microsoft, Santander Consumer Bank, Statens lånekasse for utdanning, Swire Oilfield Services, Identect Solutions, Grieg Group, Mercedes Benz and more.
+</p>
+
+<p class="margin">
+<div class="box">
+<a href="https://www.linkedin.com/in/sondreb/"><i class="fa-5x fab fa-linkedin-in"></i></a>
+<div>Check out my <a href="https://www.linkedin.com/in/sondreb/">LinkedIn profile</a> for my professional experience.</div>
+</div>
+</p>
+
+</div>
+
+<span class="no-print">
+
+<br><br>
+
+<a href="images/anarchism.jpg"><img src="images/anarchism.jpg" class="thumbnail-right" /></a><h2>Voluntary should always be the solution</h2>
 
 <p class="margin">Society can be organize through voluntary interactions between all humans.</p>
 
 <p class="margin">Having the non-aggression-principle as a basis for morality, brings clarity, joy and love to life. Would you considered becoming a voluntaryist?</p>
 
 <p class="margin">This is why I started developing <a href="https://www.liberstad.com/">Liberstad</a> Norway's first private city, together with my good friend John.</p>
-
-
-<h3>Transhumanism encapsulates the meaning of being and becoming the future self</h3>
-
-<p class="margin">Utilizing technology to improve life and health opens up a world of possibilities in the digital age.</p>
-
-<p class="margin">It's not enough to passively sit back and wait for technology to improve your life. You need to apply technology in your life on your own, to reap the benefits and reach a better life.</p>
-
-<p class="margin">Becoming a better self, is part of the reason why I went vegan back in 2013.</p>
 
 <br><br>
 
@@ -64,21 +157,7 @@ Stian, <a href="https://github.com/emilm">Emil</a>, John, Dag, <a href="https://
 
 <br><br>
 
-<h2>Work Experience</h2>
-
-<p class="margin">
-Agder Energi, Effera, Deepmind, Steria, Capgemini, Kongsberg, Digimaker, Brain, Nesthood, Interweb.
-</p>
-
-<h2>Project Experience</h2>
-
-<p class="margin">
-Vibb, DNB, Jernbaneverket, Microsoft, Santander Consumer Bank, Statens lånekasse for utdanning, Swire Oilfield Services, Identect Solutions, Grieg Group, Mercedes Benz and more.
-</p>
-
-<br><br>
-
-<h2>Stories</h2>
+<h2 class="no-print">Stories</h2>
 
 <!-- This structure is easier to just do with HTML. URLs won't be parsed as this is HTML, so we have to manually link to .html and not .md -->
 
@@ -119,3 +198,5 @@ Vibb, DNB, Jernbaneverket, Microsoft, Santander Consumer Bank, Statens lånekass
 </a>
 
 <h3><a href="archive">View older stories</a></h3>
+
+</span>
