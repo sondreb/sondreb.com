@@ -199,6 +199,7 @@ function run(wipe) {
     fs.unlinkSync(path.join(configuration.destination, 'assets/badges/friend-of-sondre-512.png'));
     fs.unlinkSync(path.join(configuration.destination, 'assets/badges/friend-of-sondre-256.png'));
     fs.unlinkSync(path.join(configuration.destination, 'assets/slides/2023-03-16-web5.pdf'));
+    fs.unlinkSync(path.join(configuration.destination, 'assets/slides/Voluntaryism-and-Free-Cities.pdf'));
     fs.unlinkSync(path.join(configuration.destination, 'CNAME'));
   }
 
@@ -210,6 +211,7 @@ function run(wipe) {
   fs.copyFileSync('www/assets/badges/friend-of-sondre-512.png', 'dist/assets/badges/friend-of-sondre-512.png');
   fs.copyFileSync('www/assets/badges/friend-of-sondre-256.png', 'dist/assets/badges/friend-of-sondre-256.png');
   fs.copyFileSync('www/assets/slides/2023-03-16-web5.pdf', 'dist/assets/slides/2023-03-16-web5.pdf');
+  fs.copyFileSync('www/assets/slides/Voluntaryism-and-Free-Cities.pdf', 'dist/assets/slides/Voluntaryism-and-Free-Cities.pdf');
   fs.copyFileSync('www/favicon.png', 'dist/favicon.png');
   fs.copyFileSync('CNAME', 'dist/CNAME');
 
