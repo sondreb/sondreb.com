@@ -19,15 +19,20 @@ function initTheme() {
     if (isDarkMode()) {
         checkbox.checked = true;
         document.body.setAttribute('data-theme', 'dark');
+        document.body.classList.add('theme-dark');
     }
 
     // After we set initial state, we'll hook up the event handler.
     checkbox.addEventListener('change', (event) => {
         if (event.currentTarget.checked) {
             document.body.setAttribute('data-theme', 'dark');
+            document.body.classList.remove('theme-light');
+            document.body.classList.add('theme-dark');
             localStorage.setItem('theme', 'dark');
         } else {
             document.body.setAttribute('data-theme', 'light');
+            document.body.classList.remove('theme-dark');
+            document.body.classList.add('theme-light');
             localStorage.setItem('theme', 'white');
         }
     })

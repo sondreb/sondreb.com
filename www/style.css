@@ -79,6 +79,23 @@ a:hover {
   text-decoration: underline;
 }
 
+.brainbox-logo {
+  width: 90px;
+  height: 90px;
+  background-size: cover;
+  background-position: center;
+  background-image: url('https://brainbox.no/assets/favicon.webp');
+}
+
+.theme-dark .brainbox-logo {
+  background-image: url('https://brainbox.no/assets/brainbox-logo-light.webp');
+}
+
+.polytalk-logo {
+  width: 90px;
+  height: 90px;
+}
+
 footer a {
   color: var(--foreground);
 }
