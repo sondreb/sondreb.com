@@ -218,6 +218,8 @@ function run(wipe) {
   fs.copyFileSync('www/assets/slides/2023-03-16-web5.pdf', 'dist/assets/slides/2023-03-16-web5.pdf');
   fs.copyFileSync('www/assets/slides/Voluntaryism-and-Free-Cities.pdf', 'dist/assets/slides/Voluntaryism-and-Free-Cities.pdf');
   fs.copyFileSync('www/assets/slides/Leaving-the-Unfree-World-behind.pdf', 'dist/assets/slides/Leaving-the-Unfree-World-behind.pdf');
+  fs.copyFileSync('www/assets/slides/Voluntaryism-Montelibero-Festival-2025.pdf', 'dist/assets/slides/Voluntaryism-Montelibero-Festival-2025.pdf');
+  fs.copyFileSync('www/assets/slides/Voluntaryism-Montelibero-Festival-2025.pptx', 'dist/assets/slides/Voluntaryism-Montelibero-Festival-2025.pptx');
   
   fs.copyFileSync('www/favicon.png', 'dist/favicon.png');
   fs.copyFileSync('CNAME', 'dist/CNAME');
