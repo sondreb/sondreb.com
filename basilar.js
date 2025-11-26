@@ -201,6 +201,9 @@ function run(wipe) {
     fs.unlinkSync(path.join(configuration.destination, 'assets/slides/2023-03-16-web5.pdf'));
     fs.unlinkSync(path.join(configuration.destination, 'assets/slides/Voluntaryism-and-Free-Cities.pdf'));
     fs.unlinkSync(path.join(configuration.destination, 'assets/slides/Leaving-the-Unfree-World-behind.pdf'));
+    fs.unlinkSync(path.join(configuration.destination, 'assets/slides/Voluntaryism-Montelibero-Festival-2025.pdf'));
+    fs.unlinkSync(path.join(configuration.destination, 'assets/slides/Voluntaryism-Montelibero-Festival-2025.pptx'));
+
 
     fs.unlinkSync(path.join(configuration.destination, 'CNAME'));
   }
