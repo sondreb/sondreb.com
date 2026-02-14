@@ -193,6 +193,7 @@ function run(wipe) {
     fs.unlinkSync(path.join(configuration.destination, 'style.css'));
     fs.unlinkSync(path.join(configuration.destination, 'web.js'));
     fs.unlinkSync(path.join(configuration.destination, 'favicon.png'));
+    fs.unlinkSync(path.join(configuration.destination, 'predictions.txt'));
     fs.unlinkSync(path.join(configuration.destination, '.well-known/nostr.json'));
     fs.unlinkSync(path.join(configuration.destination, '.well-known/lnurlp/tip'));
     fs.unlinkSync(path.join(configuration.destination, 'assets/badges/friend-of-sondre.png'));
@@ -211,6 +212,7 @@ function run(wipe) {
   // Copy the assets. // TODO: Make this a configuration setting ("basilar.json").
   fs.copyFileSync('www/style.css', 'dist/style.css');
   fs.copyFileSync('www/web.js', 'dist/web.js');
+  fs.copyFileSync('www/predictions.txt', 'dist/predictions.txt');
   fs.copyFileSync('www/.well-known/nostr.json', 'dist/.well-known/nostr.json');
   fs.copyFileSync('www/assets/badges/friend-of-sondre.png', 'dist/assets/badges/friend-of-sondre.png');
   fs.copyFileSync('www/assets/badges/friend-of-sondre-512.png', 'dist/assets/badges/friend-of-sondre-512.png');
