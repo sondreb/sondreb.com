@@ -14,6 +14,13 @@ The foundation of human society is knowledge sharing. I do my best to share my k
 
 <p class="margin">
 <div class="box">
+<a href="https://www.nostria.app/"><img class="polytalk-logo" src="https://www.nostria.app/assets/icons/icon-128x128.png"></a>
+<div>Check out <a href="https://www.nostria.app/">Nostria</a> - Your Social Network.</div>
+</div>
+</p>
+
+<p class="margin">
+<div class="box">
 <a href="https://brainbox.no/"><div class="brainbox-logo"></div></a>
 <div>Check out <a href="https://brainbox.no/">Brainbox</a> for my apps.</div>
 </div>
