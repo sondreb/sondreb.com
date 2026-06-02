@@ -204,6 +204,7 @@ function run(wipe) {
     fs.unlinkSync(path.join(configuration.destination, 'assets/slides/Leaving-the-Unfree-World-behind.pdf'));
     fs.unlinkSync(path.join(configuration.destination, 'assets/slides/Voluntaryism-Montelibero-Festival-2025.pdf'));
     fs.unlinkSync(path.join(configuration.destination, 'assets/slides/Voluntaryism-Montelibero-Festival-2025.pptx'));
+    fs.unlinkSync(path.join(configuration.destination, 'assets/CV.pdf'));
 
 
     fs.unlinkSync(path.join(configuration.destination, 'CNAME'));
@@ -222,6 +223,7 @@ function run(wipe) {
   fs.copyFileSync('www/assets/slides/Leaving-the-Unfree-World-behind.pdf', 'dist/assets/slides/Leaving-the-Unfree-World-behind.pdf');
   fs.copyFileSync('www/assets/slides/Voluntaryism-Montelibero-Festival-2025.pdf', 'dist/assets/slides/Voluntaryism-Montelibero-Festival-2025.pdf');
   fs.copyFileSync('www/assets/slides/Voluntaryism-Montelibero-Festival-2025.pptx', 'dist/assets/slides/Voluntaryism-Montelibero-Festival-2025.pptx');
+  fs.copyFileSync('www/assets/CV.pdf', 'dist/assets/CV.pdf');
   
   fs.copyFileSync('www/favicon.png', 'dist/favicon.png');
   fs.copyFileSync('CNAME', 'dist/CNAME');
