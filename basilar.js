@@ -180,7 +180,7 @@ function run(wipe) {
   if (wipe) {
     if (fs.existsSync(configuration.destination)) {
       // Removing the "dist" folder.
-      fs.rmdirSync(configuration.destination, { recursive: true });
+      fs.rmSync(configuration.destination, { recursive: true, force: true });
     }
 
     // Create the dist folder.

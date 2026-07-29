@@ -1,67 +1,73 @@
+<section class="hero">
+
 # Hello, I'm Sondre.
 
 <h2 class="highlight">
-I'm a programmer, developer, architect, writer, speaker and voluntaryist. 
-I work with decentralized systems and my goal is to decentralize everything.</h2>
+  I build intelligent systems. For years I've been hands-on with AI and large language models — turning research into products, prompts into workflows, and curiosity into working code.
+</h2>
 
-<!-- <div class="scroll-label">Scroll for more</div> -->
+<p class="hero-tagline" data-type="I help teams ship AI-powered software that actually works."></p>
+
+</section>
 
 <div class="page-break">
-<a href="images/Sondre_Bjellas_on_stage.jpg"><img src="images/Sondre_Bjellas_on_stage.jpg" class="thumbnail-right" /></a><h3>Knowledge is worthless when it's locked down</h3>
+<a href="images/Sondre_Bjellas_on_stage.jpg"><img src="images/Sondre_Bjellas_on_stage.jpg" class="thumbnail-right" /></a><h3>AI, code and everything in between</h3>
 
 <p class="margin">
-The foundation of human society is knowledge sharing. I do my best to share my knowledge with the world, through public speaking, writing and open source.</p>
+I've spent years working at the intersection of artificial intelligence, decentralized systems and user-facing software. Whether it's orchestrating LLMs, fine-tuning prompts, shipping full-stack apps or exploring what comes after Web3, I love turning complex ideas into simple, delightful products.</p>
+
+<p class="margin">
+The web is changing fast. AI is no longer a demo — it's the new interface layer. I help teams navigate that shift: from prototype to production, from experiment to reliable system.</p>
+
+<h3>What I'm working on</h3>
 
 <p class="margin">
 <div class="box">
 <a href="https://www.nostria.app/"><img class="polytalk-logo" src="https://www.nostria.app/assets/icons/icon-128x128.png"></a>
-<div>Check out <a href="https://www.nostria.app/">Nostria</a> - Your Social Network.</div>
+<div><a href="https://www.nostria.app/">Nostria</a> — a social network built on open protocols, with AI woven into the experience.</div>
 </div>
 </p>
 
 <p class="margin">
 <div class="box">
 <a href="https://brainbox.no/"><div class="brainbox-logo"></div></a>
-<div>Check out <a href="https://brainbox.no/">Brainbox</a> for my apps.</div>
+<div><a href="https://brainbox.no/">Brainbox</a> — my home for apps and experiments.</div>
 </div>
 </p>
 
 <p class="margin">
 <div class="box">
 <a href="https://polytalk.me"><img class="polytalk-logo" src="https://brainbox.no/assets/icons/polytalk.png"></a>
-<div>Learn the basics of many languages with <a href="https://polytalk.me">Polytalk.Me</a>.</div>
+<div><a href="https://polytalk.me">Polytalk.Me</a> — learn the basics of many languages.</div>
 </div>
 </p>
 
 <p class="margin">
 <div class="box">
 <a href="https://github.com/sondreb/"><i class="fa-5x fab fa-github"></i></a>
-<div>Check out my <a href="https://github.com/sondreb/">GitHub account</a> for my open source projects.</div>
+<div>Explore my open source work on <a href="https://github.com/sondreb/">GitHub</a>.</div>
 </div>
 </p>
 
 <h3>What I'm proud of</h3>
 
 <p class="margin">
-Developed a Web5 Wallet with support for multiple crypto currencies (including Bitcoin), tokens, identities (DID), NFTs and more.<br>
+Built a Web5 wallet with support for multiple cryptocurrencies, tokens, identities (DID), NFTs and more.<br>
 <a href="https://www.blockcore.net/wallet">blockcore.net/wallet</a>
 </p>
 
 <p class="margin">
-Developed a user friendly and feature rich Nostr client. <a href="https://nostr.com/">Nostr</a> is a simple, open protocol that enables a truly censorship-resistant and global social network.<br>
+Developed a friendly, feature-rich Nostr client. <a href="https://nostr.com/">Nostr</a> is a simple, open protocol that enables a truly censorship-resistant and global social network.<br>
 <a href="https://notes.blockcore.net/">notes.blockcore.net</a>
 </p>
 
 <p class="margin">
-Co-founded an open source group for developing decentralized software, called Blockcore. It has an active community of core developers delivering new 
-and exciting software for the decentralized web, including atomics swaps and a trustless funding platform on Bitcoin.<br>
-<a href="https://www.blockcore.net/">blockcore.net</a>
+Co-founded <a href="https://www.blockcore.net/">Blockcore</a>, an open source community building decentralized software — from atomic swaps to trustless funding on Bitcoin.
 </p>
 
 <p class="margin">
-Develop the Free City Platform, which is a collection of free and open source software that can be used to run a free city.<br>
-<a href="https://freeplatform.city/">freeplatform.city</a><br>
-<a href="https://freeplatform.city/mission.html">Mission Statement</a>
+Working on the Free City Platform, open source tools for running free cities.<br>
+<a href="https://freeplatform.city/">freeplatform.city</a> — <a href="https://freeplatform.city/mission.html">Mission Statement</a>
 </p>
 
 </div>
@@ -71,51 +77,38 @@ Develop the Free City Platform, which is a collection of free and open source so
 <h3>What I'm looking for</h3>
 
 <p class="margin">
-My goal is to be able to work full time on open source software, and I'm looking for job opportunities, <a href="https://github.com/sponsors/sondreb">sponsors</a> and supporters that can help me achieve this goal.
+I want to work on software that matters — ideally full time on open source and AI. I'm open to opportunities, <a href="https://github.com/sponsors/sondreb">sponsors</a> and collaborators who share that goal.
 </p>
 
 <p class="margin">
-Have many years' experience from Web3 and Web5 development, and I'm looking for opportunities to work with decentralized systems, blockchain, crypto currencies and related technologies.
+If you're building with LLMs, agents, decentralized tech or the next generation of web applications, I'd love to hear from you.
 </p>
 
-<h3>What I can provide</h3>
+<h3>How I work</h3>
 
 <p class="margin">
-I'm a hardworking and dedicated individual, with a passion for technology and software development. I have a broad range of experience, and I'm a quick learner. I'm a team player, and I enjoy working with others.
-</p>
-
-<p class="margin">
-Have a lot of experience with programming, architecture and working with teams. I have a passion for User Experience, ensuring that the software I develop is easy to use and understand. Making it enjoyable to use.
+I care about craft. Good architecture, clear UX and code that survives contact with reality. I'm a quick learner, a team player and — according to the people I work with — someone who brings positive energy to a project.
 </p>
 
 <p class="margin">
-Have experience working remotely and I'm comfortable with working from home or while travelling.
+I've worked remotely for years and thrive in distributed teams. I'm comfortable anywhere from early prototyping to production systems at scale.
 </p>
 
 <p class="margin">
-I'm a good communicator, and I enjoy sharing my knowledge with others. I have experience with public speaking, and I'm comfortable with speaking in front of large audiences.
-</p>
-
-<p class="margin">
-My colleagues and friends describe me as someone who brings joy and happiness to the workspace.
+I also love sharing what I learn through writing, speaking and open source.
 </p>
 
 </div>
 
 <div class="page-break">
-<h3>What I can do</h3>
+<h3>Tools & technologies</h3>
 
 <p class="margin">
-My extensive work experience has given me a broad range of skills, and I'm comfortable with working with most technologies and programming languages. I'm a quick learner, and I'm always eager to learn new things.
-</p>
-
-<p class="margin">
-My years of experience contains technology, languages and software that doesn't even exists anymore. What matters most is the ability to adapt and 
-learn new skills. Here is my current list of preferred technologies (languages, software, technology, patterns) that I enjoy working with recently:
+Languages, frameworks and ideas come and go. What stays is the ability to learn and adapt. Lately I'm especially drawn to:
 </p>
 
 <p class="margin tech">
-JavaScript, TypeScript, Progressive Web Apps, DevOps, DevEx, Bitcoin, Ethereum, Web3, Web5, Nostr, Node.js, Docker, C#, .NET, ASP.NET, Kubernetes, MongoDB, RocksDB, Git, GitHub, Visual Studio Code, Azure (Cloud), Tauri, Electron, Cordova.
+  AI / LLMs, Prompt Engineering, Agents, TypeScript, JavaScript, Node.js, Python, C#, .NET, ASP.NET, Web3, Web5, Nostr, Bitcoin, Ethereum, Docker, Kubernetes, Azure, MongoDB, RocksDB, Tauri, Electron, PWA, DevOps, Git, GitHub, VS Code.
 </p>
 
 <br><br>
@@ -135,7 +128,7 @@ Opdex (decentralized token exchange), Stratis (blockchain platform), Blockcore (
 <p class="margin">
 <div class="box">
 <a href="https://www.linkedin.com/in/sondreb/"><i class="fa-5x fab fa-linkedin-in"></i></a>
-<div>Check out my <a href="https://www.linkedin.com/in/sondreb/">LinkedIn profile</a> for my professional experience.</div>
+<div>See my full background on <a href="https://www.linkedin.com/in/sondreb/">LinkedIn</a>.</div>
 </div>
 </p>
 
